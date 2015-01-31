@@ -1,3 +1,5 @@
 # hello-world
 GitHub 101
-This is a test.
+
+
+Becoming a Git Master takes practice.  One must push, commit, pull, and repeat often.
